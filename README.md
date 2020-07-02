@@ -1,1 +1,1 @@
-# js_ninja_resig
+# Basics of data analytics with python and R.
