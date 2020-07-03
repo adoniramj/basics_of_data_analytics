@@ -1,1 +1,1 @@
-# Basics of data analytics with python and R.
+# Basics of data analytics with Python and R.
